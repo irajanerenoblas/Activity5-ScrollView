@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
   },
   txttwo: {
     fontFamily: 'Tahoma',
-    fontSize: 13,
+    fontSize: 14,
     
   }
 });
