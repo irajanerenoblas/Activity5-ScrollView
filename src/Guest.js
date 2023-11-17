@@ -68,6 +68,17 @@ export const guest = [
         name: "WEASLEY, RON",
         place: "Unahan, Japan",
     },
+    {
+        id: 14,
+        name: "ZAKIRA, YUSAI",
+        place: "Lapas, Japan",
+    },
+    {
+        id: 15,
+        name: "ZACHARY, SHAWN",
+        place: "Skina, Japan",
+    },
+ 
  
 ]
 
